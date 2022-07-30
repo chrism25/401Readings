@@ -1,4 +1,4 @@
-Strategic Policy Development
+# <p align="center">Strategic Policy Development
 * Definitely a subject to understand since is an attestment to all the securities that are being put in place. Many of us don’t like the long documents or all the policies put in place but these are main rules that need to be clear and well documented for a good secure working environment. 
 * SOC 2 is a very important framework for providers that store customer’s data like SaaS businesses. Since enterprises are held to higher standards, providers have to ensure control over security, availability, processing integrity, confidentiality and privacy. These are the 5 Trust Principles. 
 * Nowadays SOC 1 focuses on financial reports, while SOC 2 focuses on Trust Services Criteria. 
