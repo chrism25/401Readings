@@ -1,4 +1,3 @@
-Sniffing and Evasion.md
 # <p align="center"> How to defend from Sniffing
 Initially sniffing was created to analyze and monitor traffic in order to resolve issues, but actors use it for their own gain to steal important information. 
 
